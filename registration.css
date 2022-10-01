@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+    color: steelblue;
+    font-size: 50px;
+}
+form{
+    margin: 20px auto;
+    width: 320px;
+    color: steelblue;
+}
+input{
+    padding: 10px;
+    font-size: inherit;
+}
+.txt{
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid steelblue;
+}
+#btn{
+    background-color: steelblue;
+    color: white;
+    width: 344px;
+    height: 45px;
+    border: none;
+
+}
+span{
+    font-weight: bolder;
+    color: red;
+}
